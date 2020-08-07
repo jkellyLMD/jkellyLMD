@@ -30,5 +30,9 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt="jkellyLMD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jkellyLMD@show_icons=true&hide_border=true" />
+
 [website]: http://jasonkelly.info
 [linkedin]: https://www.linkedin.com/in/jason-kelly-7a8360b4
