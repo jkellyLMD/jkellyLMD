@@ -2,7 +2,6 @@
 
 ## I'm the lead software developer for Love My Delta Inc.
 - I'm currently working on private repositories for the company
-- I'm currently learning NodeJS and React
 - I have a PhD in Mechanical Engineering from the University of Minnesota
 
 <br />
