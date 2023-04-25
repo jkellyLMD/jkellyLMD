@@ -1,4 +1,4 @@
-### Hello, my name is Jason Kelly [linkedin]
+### Hello, my name is Jason Kelly
 
 ## I'm the lead software developer for Love My Delta Inc.
 - I'm currently working on private repositories for the company
